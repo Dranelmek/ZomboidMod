@@ -1,0 +1,16 @@
+module DMGodStickRecipes
+{
+    imports
+    {
+        Base
+    }
+    
+    recipe Obtain God stick
+    {
+        RippedSheets,
+
+        Result:DMGodStick,
+        Time:100.0,
+        Sound:BreakGlassItem,
+    }
+}
