@@ -1,0 +1,3 @@
+version=1
+title=Drane M God stick
+description=Make a god weapon with very high damage
